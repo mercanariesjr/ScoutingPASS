@@ -47,7 +47,7 @@ var config_data = `
         "x": "Not Swerve"
     },
     { "name": "Other ratio",
-      "code": "odt",
+      "code": "ort",
       "type": "text",
       "size": 20,
       "maxSize": 50
