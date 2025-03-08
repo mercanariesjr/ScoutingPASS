@@ -46,12 +46,6 @@ var config_data = `
         "o": "Other ratio<br>",
         "x": "Not Swerve"
     },
-    { "name": "Other ratio",
-      "code": "ort",
-      "type": "text",
-      "size": 20,
-      "maxSize": 50
-    },
       "defaultValue":"x"
     },
     { "name": "Drivetrain Motor",
