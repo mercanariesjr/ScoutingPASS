@@ -46,8 +46,6 @@ var config_data = `
         "o": "Other ratio<br>",
         "x": "Not Swerve"
     },
-      "defaultValue":"x"
-    },
     { "name": "Drivetrain Motor",
       "code": "mot",
       "type": "radio",
